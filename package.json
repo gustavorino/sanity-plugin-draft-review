@@ -1,6 +1,6 @@
 {
   "name": "sanity-plugin-draft-review",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sanity draft review plugin",
   "main": "build/index.js",
   "scripts": {
