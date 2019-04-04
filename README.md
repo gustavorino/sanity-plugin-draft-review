@@ -3,7 +3,8 @@
 
 This plugin allows content editors to quickly **view**, **approve** and **reject** documents in draft mode (not published).
 
-![example](screenshots/example1.png)
+
+<img src="screenshots/example1.png" alt="drawing" width="300" height="auto"/>
 
 # Getting started
 
