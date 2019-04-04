@@ -1,0 +1,46 @@
+{
+  "name": "sanity-plugin-draft-review",
+  "version": "1.0.0",
+  "description": "Sanity draft review plugin",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "babel src -d build --copy-files",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gustavorino/sanity-plugin-draft-review.git"
+  },
+  "keywords": [
+    "sanity",
+    "draft",
+    "review",
+    "plugin"
+  ],
+  "author": "Gustavo Bremm <gustavorino@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gustavorino/sanity-plugin-draft-review/issues"
+  },
+  "homepage": "https://github.com/gustavorino/sanity-plugin-draft-review#readme",
+  "peerDependencies": {
+    "@sanity/client": ">= 0.135.x",
+    "@sanity/base": ">= 0.135.x",
+    "@sanity/components": ">= 0.135.x",
+    "@sanity/core": ">= 0.135.x",
+    "rxjs": ">= 6.1.0"
+  },
+  "dependencies": {
+    "diff": "^4.0.1",
+    "react": "^16.2.0",
+    "rxjs": "^6.1.0"
+  },
+  "devDependencies": {
+    "react-hot-loader": "^4.8.2",
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/plugin-proposal-class-properties": "^7.1.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0"
+  }
+}
