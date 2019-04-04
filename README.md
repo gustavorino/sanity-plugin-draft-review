@@ -21,6 +21,8 @@ Open **sanity.json** file in your project root folder and add the following line
 
 ### TODO
 
+- [ ] Work on the UI/UX ( Loading, Feedback, Better Look )
+- [ ] Error messages
 - [ ] Check if it's possible to get drafts and documents in one query 
 - [ ] Render a document preview on top of the diff
 - [ ] Study if there is a better way to implement the approve/reject feature.
