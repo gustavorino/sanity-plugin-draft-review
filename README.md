@@ -1,4 +1,5 @@
 # Sanity draft review plugin
+## Work In Progress. Use at your own risk.
 
 This plugin allows content editors to quickly **view**, **approve** and **reject** documents in draft mode (not published).
 
@@ -17,12 +18,12 @@ Open **sanity.json** file in your project root folder and add the following line
 ]
 ```
 
-## THIS IS WORK IN PROGRESS...
 
 ### TODO
 
 - [ ] Work on the UI/UX ( Loading, Feedback, Better Look )
-- [ ] Error messages
+- [ ] Edge cases / error messages
+- [ ] Sometimes sanity create a draft of a document that structualy didn't change
 - [ ] Check if it's possible to get drafts and documents in one query 
 - [ ] Render a document preview on top of the diff
 - [ ] Study if there is a better way to implement the approve/reject feature.
