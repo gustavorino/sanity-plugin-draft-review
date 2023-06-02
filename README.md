@@ -1,6 +1,11 @@
 # Sanity draft review plugin
 ## Work In Progress. Use at your own risk.
 
+
+> This is a **Sanity Studio v2** plugin.
+
+[v3 version here](https://www.sanity.io/plugins/sanity-plugin-draft-review-v3)
+
 This plugin allows content editors to quickly **view**, **approve** and **reject** documents in draft mode (not published).
 
 
